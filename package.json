@@ -1,0 +1,12 @@
+{
+  "name": "survivor-stats-common",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Constants needed by survivor stats user.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mollysoliday",
+  "license": "ISC"
+}
